@@ -1,0 +1,7 @@
+QLabel
+{
+	color: #C0B0A0;
+	font-family: "Augusta two";
+	font-weight: bold;
+	font-size: 25px;
+}

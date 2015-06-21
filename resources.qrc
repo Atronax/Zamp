@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>megastyle/quit_button.png</file>
+        <file>megastyle/quit_button_hover.png</file>
+        <file>megastyle/quit_button_infocus.png</file>
+        <file>megastyle/play_button.png</file>
+        <file>megastyle/play_button_hover.png</file>
+        <file>megastyle/play_button_infocus.png</file>
+        <file>megastyle/pause_button.png</file>
+        <file>megastyle/pause_button_hover.png</file>
+        <file>megastyle/pause_button_infocus.png</file>
+        <file>megastyle/stop_button.png</file>
+        <file>megastyle/stop_button_hover.png</file>
+        <file>megastyle/stop_button_infocus.png</file>
+        <file>megastyle/sound_button.png</file>
+        <file>megastyle/sound_button_toggled.png</file>
+        <file>megastyle/sound_button_toggled_hover.png</file>
+        <file>megastyle/sound_button_hover.png</file>
+        <file>megastyle/sound_button_toggled_infocus.png</file>
+        <file>megastyle/sound_button_infocus.png</file>
+        <file>megastyle/open_movie_button.png</file>
+        <file>megastyle/open_movie_button_hover.png</file>
+        <file>megastyle/open_movie_button_infocus.png</file>
+        <file>megastyle/playlist_previous_button.png</file>
+        <file>megastyle/playlist_previous_button_hover.png</file>
+        <file>megastyle/playlist_previous_button_infocus.png</file>
+        <file>megastyle/playlist_next_button.png</file>
+        <file>megastyle/playlist_next_button_hover.png</file>
+        <file>megastyle/playlist_next_button_infocus.png</file>
+        <file>megastyle/playlist_button.png</file>
+        <file>megastyle/playlist_button_hover.png</file>
+        <file>megastyle/playlist_button_infocus.png</file>
+        <file>megastyle/scrollbar_button_addline.png</file>
+        <file>megastyle/scrollbar_button_addpage.png</file>
+        <file>megastyle/scrollbar_button_subline.png</file>
+        <file>megastyle/scrollbar_button_subpage.png</file>
+        <file>megastyle/scrollbar_slider_lefttoright.jpg</file>
+        <file>megastyle/scrollbar_slider_uptobottom.jpg</file>
+        <file>megastyle/sound_slider_clicked.png</file>
+        <file>megastyle/down_pointer.png</file>
+    </qresource>
+</RCC>

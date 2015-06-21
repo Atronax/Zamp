@@ -1,0 +1,22 @@
+QDialog
+{
+	background: #708090;	
+}
+
+QLabel
+{
+	color: black;
+	font-family: "Augusta two";
+	font-weight: bold;
+	font-size: 18px;
+}
+
+QPushButton
+{
+	background: #406080;	
+
+	color: #DD6D00;
+	font-family: "Augusta two";
+	font-weight: bold;
+	font-size: 18px;	
+}

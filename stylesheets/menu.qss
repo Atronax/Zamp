@@ -1,0 +1,16 @@
+QMenu
+{
+	color: #B0C0D0;
+	font-family: "Augusta two";
+	font-weight: bold;
+	font-size: 20px;
+
+	background: #708090;
+	border: 3px double  #506070;	
+}
+
+QMenu::item:selected
+{
+	color: #FFFFFF;
+	background: #405060;
+}

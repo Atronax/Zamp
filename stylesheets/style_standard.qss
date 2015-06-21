@@ -1,0 +1,118 @@
+QDialog
+{
+	background: #708090;	
+}
+
+QDialog > QLabel
+{
+	color: #B0C0D0;
+	font-family: "Augusta two";
+	font-weight: bold;
+	font-size: 20px;
+}
+
+QDialog > QPushButton
+{
+	background: #305070;	
+
+	color: #B0C0D0;
+	font-family: "Augusta two";
+	font-weight: bold;
+	font-size: 20px;	
+}
+
+QListView
+{
+	font-family: "Augusta two";
+	font-weight: bold;
+	font-size: 20px;
+	
+	background: #000000;
+	border: 4px solid black;		
+}
+
+QListView:hover
+{
+	font-size: 30px;
+}
+
+QListView::item
+{	
+	padding: 0px;
+	margin: 15px 20px 15px 20px;	
+
+	color: #8B0000;	
+	border: 4px solid black	
+}
+
+QListView::item:hover
+{	
+	margin-left: 30px;
+}
+
+QListView::item:selected
+{	
+	margin-left: 40px;
+}
+
+QMenu
+{
+	color: #B0C0D0;
+	font-family: "Augusta two";
+	font-weight: bold;
+	font-size: 20px;
+
+	background: #708090;
+	border: 3px double  #506070;	
+}
+
+QMenu::item:selected
+{
+	color: #FFFFFF;
+	background: #405060;
+}
+
+QLabel
+{
+	color: #C0B0A0;
+	font-family: "Augusta two";
+	font-weight: bold;
+	font-size: 25px;
+}
+
+QPushButton
+{
+	color: #C0B0A0;
+	font-family: "Augusta two";
+	font-weight: bold;
+	font-size: 20px;	
+}
+
+QTextEdit
+{
+	border: 4px groove #A0B0C0;
+	border-radius: 4px;
+	background: #EEEEEE; 
+}
+
+QTextEdit:hover
+{
+	border: 5px groove #B0E0E6;
+	border-radius: 4px;
+}
+
+QTextEdit > QPushButton
+{
+	color: #A0B0C0;
+	font-family: "Xiomara";
+	font-weight: bold;
+	font-size: 14px;	
+}
+
+QTextEdit > QPushButton:hover
+{
+	color: #FFFFFF;
+	font-family: "Xiomara";
+	font-weight: bold;
+	font-size: 20px;	
+}

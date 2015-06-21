@@ -1,0 +1,28 @@
+QTextEdit
+{
+	border: 4px groove #A0B0C0;
+	border-radius: 4px;
+	background: #EEEEEE; 
+}
+
+QTextEdit:hover
+{
+	border: 5px groove #B0E0E6;
+	border-radius: 4px;
+}
+
+QPushButton
+{
+	color: #A0B0C0;
+	font-family: "Xiomara";
+	font-weight: bold;
+	font-size: 14px;	
+}
+
+QPushButton:hover
+{
+	color: #FFFFFF;
+	font-family: "Xiomara";
+	font-weight: bold;
+	font-size: 20px;	
+}

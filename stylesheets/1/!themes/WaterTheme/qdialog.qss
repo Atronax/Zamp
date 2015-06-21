@@ -1,0 +1,22 @@
+QDialog
+{
+	background: #708090;	
+}
+
+QLabel
+{
+	color: #B0C0D0;
+	font-family: "Xiomara";
+	font-weight: bold;
+	font-size: 14px;
+}
+
+QPushButton
+{
+	background: #305070;	
+
+	color: #B0C0D0;
+	font-family: "Xiomara";
+	font-weight: bold;
+	font-size: 14px;	
+}

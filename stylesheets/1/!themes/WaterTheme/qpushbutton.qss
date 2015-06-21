@@ -1,0 +1,7 @@
+QPushButton
+{
+	color: #A0B0C0;
+	font-family: "Xiomara";
+	font-weight: bold;
+	font-size: 20px;	
+}

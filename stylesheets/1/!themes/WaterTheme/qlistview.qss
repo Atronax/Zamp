@@ -1,0 +1,44 @@
+QListView
+{
+	font-family: "Xiomara";
+	font-weight: bold;
+	font-size: 20px;
+	
+	color: #191970;
+	background: #708090;
+
+	border: 6px double #506070;
+	border-top-left-radius: 28px;
+	border-top-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;	
+}
+
+QListView:hover
+{
+	font-size: 34px;
+}
+
+QListView::item
+{	
+	margin: 10px 20px 10px 20px;
+	padding: 0px;
+	background: #90A0B0;
+	border: 3px groove  #506070;
+	border-radius: 10px;
+}
+
+QListView::item:hover
+{	
+	margin: 10px 20px 10px 30px;
+	background: #C8D0D8;
+}
+
+QListView::item:selected
+{	
+	padding: 5px;
+	margin: 8px 20px 8px 40px;
+	border-top: 3px double #B22400;
+	border-bottom: 3px double #B22400;
+	background: #B0C0D0;
+}
